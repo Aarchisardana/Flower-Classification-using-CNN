@@ -1,11 +1,17 @@
-# Flower-Classification-using-CNN
-   In this machine learning project  i had  used the cnn  and  it will identify the the  images of  flowers  which is  in dataset   i had taken the 5 samples  which are 
-    rose , daisy , dandelion ,  sunlfower , daisy 
-  so if u downlaod  any image even  from the  googel  which should one of the flower from which is in the sample  then   it  will predict  the name of flower
-   Streamlit is used to show the ui  part 
+# Flower Classification Using CNN
 
+This machine learning project leverages a Convolutional Neural Network (CNN) to identify images of flowers. The model has been trained on a dataset containing five types of flowers: "rose, daisy, dandelion, sunflower, and tulip". If you upload an image, even one downloaded from Google, the model will predict the flower's name, provided it belongs to one of these five categories.
 
+## Project Overview
 
-
-      when  u wil run the app.py file   in  vs code  u have to use the coammand  of Steeamlit run app.py  where   app is the  file name 
-       
+- Model: The Convolutional Neural Netwoek model has been carefully designed and trained to accurately classify images of the five selected flower types.
+- Dataset: The dataset includes images of the following flowers:
+  - Rose
+  - Daisy
+  - Dandelion
+  - Sunflower
+  - Tulip
+- User Interface: Streamlit is used to create a simple and interactive user interface where users can upload images and view predictions.
+- Running the Application: To run the application, (app.py) file navigate to the directory containing your project files in VS Code or any other terminal. Use the following command to start the app:
+  streamlit run app.py
+  
