@@ -1,4 +1,4 @@
-# Flower Recognition Using CNN
+# Flower Classification Using CNN
 
 This machine learning project leverages a Convolutional Neural Network (CNN) to identify images of flowers. The model has been trained on a dataset containing five types of flowers: "rose, daisy, dandelion, sunflower, and tulip". If you upload an image, even one downloaded from Google, the model will predict the flower's name, provided it belongs to one of these five categories.
 
