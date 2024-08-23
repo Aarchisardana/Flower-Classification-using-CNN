@@ -14,4 +14,5 @@ This machine learning project leverages a Convolutional Neural Network (CNN) to 
 - User Interface: Streamlit is used to create a simple and interactive user interface where users can upload images and view predictions.
 - Running the Application: To run the application, (app.py) file navigate to the directory containing your project files in VS Code or any other terminal. Use the following command to start the app:
   streamlit run app.py
-  
+
+  The dataset initially contains a total of 4318 images, which include 5 samples. To increase the size of the dataset, I performed data augmentation so that the model can  trained or learned  more accurately and will predict  the results  with more accuracy .
