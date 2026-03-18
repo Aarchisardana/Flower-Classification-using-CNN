@@ -16,3 +16,5 @@ This machine learning project leverages a Convolutional Neural Network (CNN) to 
   streamlit run app.py
 
   The dataset initially contains a total of 4318 images, which include 5 samples. To increase the size of the dataset, I performed data augmentation so that the model can  trained or learned  more accurately and will predict  the results  with more accuracy .
+   updated and working  fine
+  
